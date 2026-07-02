@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/SahilRajput2609/Leetcode/tree/master/0125-valid-palindrome) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/SahilRajput2609/Leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
