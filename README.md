@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/SahilRajput2609/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/SahilRajput2609/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/SahilRajput2609/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SahilRajput2609/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SahilRajput2609/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SahilRajput2609/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
